@@ -5,6 +5,6 @@ This is my first coding project and it will be (initally) a full HTML recipes we
 Through this project, I have learned how to:
 - Thoughtfully create sections on a webpage
 - Spellcheck in VS Code
-- Stylistically use copy-and-paste emojis and <em>
+- Stylistically use copy-and-paste emojis and <em></em>
 - Commit
 - Publish my site on GitHub
