@@ -3,5 +3,6 @@ This is my first coding project and it will be (initally) a full HTML recipes we
 
 ## Self-reflection
 Through this project, I have learned to:
-- afd
-- fasdf
+- Thoughtfully create sections on a webpage
+- Spellcheck in VS Code
+- Stylistically use copy-and-paste emojis and <em>
